@@ -11,7 +11,7 @@ Este es un proyecto privado ya que es con fines educativos y puede estemos aplic
 Ahora si ...
 ### Para ver este proyecto sigue los siguientes pasos:  
 
-- [ ] Clonar el proyecto: ``git clone `source-of-this-project` ``. 
+- [x] Clonar el proyecto: ``git clone `source-of-this-project` ``. 
 - [ ] Abrir el archivo index.html en el navegador.
 
 ### Para contribuir a este proyecto sigue los siguientes pasos:  

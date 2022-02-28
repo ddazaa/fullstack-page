@@ -6,7 +6,7 @@ Pagina web desarrollada por estudiantes de la asignatura de fullstack.
 * Edison Lopez.  
 ---
 ## Para empezar
-Este es un proyecto privado ya que es con fines educativos y puede estemos aplicando malas prácticas sin saberlo :innocent:  
+Este es un proyecto con fines educativos y puede estemos aplicando malas prácticas sin saberlo :innocent:  
   
 Ahora si ...
 ### Para ver este proyecto sigue los siguientes pasos:  

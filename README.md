@@ -16,7 +16,7 @@ Ahora si ...
 
 ### Para contribuir a este proyecto sigue los siguientes pasos:  
 
-- [ ] Clonar el proyecto: ``git clone `codigo-de-este-proyecto` `` 
+- [ ] Clonar el proyecto **(Primera vez)**: ``git clone `codigo-de-este-proyecto` ``
 - [ ] Crear una rama a partir de la rama main, usa la estructura `feature/caracteristica-nueva`.  
     > ej: feature/add-breaking-bad-api
 - [ ] Subir la rama a github.
